@@ -1,0 +1,22 @@
+
+Name of Quantlet:  Rough Volatility with Correlated Jumps
+
+Published in:     ''
+
+Description:      'In order to model jumps, we first have to identify them. Two methods are presented and Omi Takahiro's packages to estimate and simulate Hawkes processes is leveraged.'
+
+Submitted:  '10 Apr 2024'
+
+Keywords: 
+- 'Hawkes Processes'
+- 'Stochastic Jumps'
+- 'Bitcoin Price Jumps'
+- 'Stochastic Process'
+- 'Self-Exciting Jumps'
+
+Author: 
+- 'Lukas Krain'
+
+See also: 
+- 'Lee Mykland Jump Test'
+- 'Hawkes, Omitakahiro'

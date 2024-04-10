@@ -1,0 +1,20 @@
+
+Name of Quantlet:  Rough Volatility with Correlated Jumps
+
+Published in:     ''
+
+Description:      'This program aggregates the raw price data into usable log-returns. Microstructure noise is filtered out. Data can be downloaded e.g. for free here: https://data.binance.vision/?prefix=data/spot/daily/klines/BTCTUSD/1s/'
+
+Submitted:  '10 Apr 2024'
+
+Keywords: 
+- 'Bitcoin'
+- 'Microstructure'
+- 'Stochastic Process'
+
+Author: 
+- 'Lukas Krain'
+
+See also: 
+- 'Market Microstructure'
+- 'Bid-Ask Bounce'
